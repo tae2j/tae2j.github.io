@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/tae2j/study/blog/static/css/main.b399512e.css",
-    "main.js": "/tae2j/study/blog/static/js/main.33fb6a2e.js",
-    "static/js/453.ede2c593.chunk.js": "/tae2j/study/blog/static/js/453.ede2c593.chunk.js",
-    "static/media/logo.svg": "/tae2j/study/blog/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/tae2j/study/blog/index.html",
-    "main.b399512e.css.map": "/tae2j/study/blog/static/css/main.b399512e.css.map",
-    "main.33fb6a2e.js.map": "/tae2j/study/blog/static/js/main.33fb6a2e.js.map",
-    "453.ede2c593.chunk.js.map": "/tae2j/study/blog/static/js/453.ede2c593.chunk.js.map"
+    "main.css": "/static/css/main.b399512e.css",
+    "main.js": "/static/js/main.dcdf93eb.js",
+    "static/js/453.ede2c593.chunk.js": "/static/js/453.ede2c593.chunk.js",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.b399512e.css.map": "/static/css/main.b399512e.css.map",
+    "main.dcdf93eb.js.map": "/static/js/main.dcdf93eb.js.map",
+    "453.ede2c593.chunk.js.map": "/static/js/453.ede2c593.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b399512e.css",
-    "static/js/main.33fb6a2e.js"
+    "static/js/main.dcdf93eb.js"
   ]
 }
